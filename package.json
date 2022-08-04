@@ -1,0 +1,15 @@
+{
+  "name": "test-pm2-mysql2",
+  "version": "1.0.0",
+  "description": "Node process cannot stop under pm2.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Meng",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^2.3.3"
+  }
+}
